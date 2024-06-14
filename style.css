@@ -1,0 +1,18 @@
+/* navbar.css */
+
+.bg-light-red {
+    background-color: #da5e5e;
+  }
+  
+  
+  
+  .nav-link {
+    padding: 0.5rem 1rem;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: black;
+  }
+ 
